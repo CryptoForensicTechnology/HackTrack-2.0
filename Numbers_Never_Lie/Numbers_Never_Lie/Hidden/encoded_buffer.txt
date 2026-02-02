@@ -1,5 +1,0 @@
-Not everything sent is meant to be read.
-Some messages hide behind familiarity.
-
-If this looks ordinary to you,
-you’re already missing the payload.
