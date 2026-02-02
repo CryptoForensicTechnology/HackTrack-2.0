@@ -1,0 +1,5 @@
+Some systems speak in permissions,
+not in letters.
+
+Decoding gives you the action.
+Thinking tells you what comes next.
