@@ -1,5 +1,0 @@
-If one decoding was enough,
-this would be easy.
-
-The attacker didn’t stop at one layer.
-Neither should you.
